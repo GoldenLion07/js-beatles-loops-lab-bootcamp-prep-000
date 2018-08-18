@@ -1,5 +1,7 @@
 'use strict';
-
+//function theBeatlesPlay takes two parameters; instruments and musicians.
+//it creates a new array.
+//it loops through the array and displays the facts once.
 function theBeatlesPlay(musicians, instruments) {
     var allMusicians = [];
     for (var i=0; i < musicians.length; i++) {
